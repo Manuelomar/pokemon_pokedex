@@ -1,0 +1,81 @@
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.exe
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.deps.json
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.runtimeconfig.json
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.runtimeconfig.dev.json
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.dll
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.pdb
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.AssemblyInfo.cs
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\staticwebassets\Poke_Api.StaticWebAssets.Manifest.cache
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\staticwebassets\Poke_Api.StaticWebAssets.xml
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Poke_Api.styles.css
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.RazorTargetAssemblyInfo.cache
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.dll
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.pdb
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.genruntimeconfig.cache
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.csproj.CopyComplete
+C:\Users\Omar\Desktop\pokedex\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.exe
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.deps.json
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.runtimeconfig.json
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.runtimeconfig.dev.json
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.dll
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.pdb
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.AssemblyInfo.cs
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\staticwebassets\Poke_Api.StaticWebAssets.Manifest.cache
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\staticwebassets\Poke_Api.StaticWebAssets.xml
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Poke_Api.styles.css
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.RazorTargetAssemblyInfo.cache
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.csproj.CopyComplete
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.dll
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.pdb
+C:\Users\danie\Desktop\ITLA\2021-C2\Proyecto Omal\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.genruntimeconfig.cache
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.exe
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.deps.json
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.runtimeconfig.json
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.runtimeconfig.dev.json
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.dll
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Poke_Api.pdb
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.AssemblyInfo.cs
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\staticwebassets\Poke_Api.StaticWebAssets.Manifest.cache
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\staticwebassets\Poke_Api.StaticWebAssets.xml
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Poke_Api.styles.css
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.RazorTargetAssemblyInfo.cache
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.csproj.CopyComplete
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.dll
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.pdb
+C:\Users\Omar\Desktop\pokedexx\Poke_Api\Poke_Api\obj\Debug\netcoreapp3.1\Poke_Api.genruntimeconfig.cache
