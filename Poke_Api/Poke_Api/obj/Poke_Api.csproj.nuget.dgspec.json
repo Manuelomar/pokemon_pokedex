@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omar\\Desktop\\pokedexx\\Poke_Api\\Poke_Api\\Poke_Api.csproj": {}
+    "C:\\Users\\Omar\\Documents\\GitHub\\pokemon_pokedex\\Poke_Api\\Poke_Api\\Poke_Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omar\\Desktop\\pokedexx\\Poke_Api\\Poke_Api\\Poke_Api.csproj": {
+    "C:\\Users\\Omar\\Documents\\GitHub\\pokemon_pokedex\\Poke_Api\\Poke_Api\\Poke_Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omar\\Desktop\\pokedexx\\Poke_Api\\Poke_Api\\Poke_Api.csproj",
+        "projectUniqueName": "C:\\Users\\Omar\\Documents\\GitHub\\pokemon_pokedex\\Poke_Api\\Poke_Api\\Poke_Api.csproj",
         "projectName": "Poke_Api",
-        "projectPath": "C:\\Users\\Omar\\Desktop\\pokedexx\\Poke_Api\\Poke_Api\\Poke_Api.csproj",
+        "projectPath": "C:\\Users\\Omar\\Documents\\GitHub\\pokemon_pokedex\\Poke_Api\\Poke_Api\\Poke_Api.csproj",
         "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omar\\Desktop\\pokedexx\\Poke_Api\\Poke_Api\\obj\\",
+        "outputPath": "C:\\Users\\Omar\\Documents\\GitHub\\pokemon_pokedex\\Poke_Api\\Poke_Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
